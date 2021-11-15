@@ -20,4 +20,4 @@ If you’ve already completed these steps jump to our gameplay and earning guide
 
 {% page-ref page="gameplay-earn-trade.md" %}
 
-If you haven’t already, make sure to join our Discord(https://discord.gg/Y22tYKmPgR) to meet the rest of our amazing community!
+If you haven’t already, make sure to join our [Discord](https://discord.gg/Y22tYKmPgR) to meet the rest of our amazing community!
