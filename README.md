@@ -39,21 +39,13 @@ Every plot of land will have its own rarity and unique features that will influe
 HOLY will be unlocked on a pre-determined timeline after the public auction, which will span 44 months. The first circulating supply is 2,100,000,000 HOLY, accounting for 21% of the overall supply. The chart above depicts the maximum amount of HOLY that may be issued in the following years, and the total supply will never surpass 10,000,000,000.
 
 | Distributions | Token amount | Proportion | Unlocked Schedule |
-|---------------|--------------|------------|-------------------|
 | Tournaments | 2,500,000,000 | 25% | 1%/Tour (in 25 tours) |
-|---------------|--------------|------------|-------------------|
 | Staking Rewards | 1,750,000,000 | 17.5% | 40,000,000/month |
-|---------------|--------------|------------|-------------------|
 | HOLY Platform Fund | 1,500,000,000 | 15% | Add pools & future dev |
-|---------------|--------------|------------|-------------------|
 | Core team | 1,900,000,000 | 19% | 1%/month after a year |
-|---------------|--------------|------------|-------------------|
 | Advisors & Strategic Partners | 1,000,000,000 | 10% | Lock 6 months |
-|---------------|--------------|------------|-------------------|
 | Public Sale | 300,000,000 | 3% | Fully unlock |
-|---------------|--------------|------------|-------------------|
 | Pre-sale | 1,050,000,000 | 10.5% | Unlock by a half|
-|---------------|--------------|------------|-------------------|
 | Total amount | 10,000,000,000 | |  100% |
 
 * Using Knight and Items NFTs to participate in combat for HOLY.
