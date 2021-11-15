@@ -65,4 +65,4 @@ The steps to add the Polygon network are outlined below:
 
 ![](../assets/set-to-polygon-metamask.png)
 
-Congratulations, you are now ready to receive BNB in your address and purchase SKILL.
+Congratulations, you are now ready to receive MATIC in your address and purchase HOLY.
