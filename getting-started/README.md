@@ -10,7 +10,7 @@ MetaMask can be installed as a browser extension, or as an application on your m
 
 The instructions to install MetaMask can be found here:
 
-[article](./metamask-wallet-setup.md)
+[Download and Install MetaMask](./metamask-wallet-setup.md)
 
 Once your MetaMask wallet has been setup, instructions to purchase HOLY on a DEX can be found here:
 
@@ -20,4 +20,4 @@ If you’ve already completed these steps jump to our gameplay and earning guide
 
 {% page-ref page="gameplay-earn-trade.md" %}
 
-If you haven’t already, make sure to join our [Discord](https://discord.gg/Y22tYKmPgR) to meet the rest of our amazing community!
+If you haven’t already, make sure to join our [HolyKnight's Community](https://discord.gg/Y22tYKmPgR) to meet the rest of our amazing community!
