@@ -88,6 +88,9 @@ armor shield upgrades increase defense and dodge from monster attacks
 ### Reforge
 
 ### Engrave
+Engrave the player's name according to the player's wishes
+
+Engrave the item name according to the player's choice
 
 
 ## Land
