@@ -43,7 +43,7 @@ The steps to add the Polygon network are outlined below:
 
 1. Go to the Settings menu by clicking on the circle in the upper right hand side of the screen.
 
-![](..//assets/settings-metamask.png)
+![](../assets/settings-metamask.png)
 
 2. Click on "Networks" and "Add Network".
 
