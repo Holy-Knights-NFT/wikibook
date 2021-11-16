@@ -103,6 +103,7 @@ Players can sell existing land to buy other land
 The land will be divided according to different levels of each region
 
 The land will be divided according to different levels: kings, nobles, warriors and peasants.
+
 Players who own land according to different levels will enjoy different profits
 ## Banking System
 
