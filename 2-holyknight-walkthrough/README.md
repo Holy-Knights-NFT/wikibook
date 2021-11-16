@@ -96,5 +96,10 @@ Engrave the name of the land the player owns
 
 ## Land
 
+players can buy land when reaching certain level
+
+Players can sell existing land to buy other land
+
+
 ## Banking System
 
