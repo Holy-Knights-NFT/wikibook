@@ -100,6 +100,10 @@ players can buy land when reaching certain level
 
 Players can sell existing land to buy other land
 
+The land will be divided according to different levels of each region
 
+King's land is the highest and enjoys a lot of profit
+
+The land of nobles will be under the king's land and enjoy a lot of profit
 ## Banking System
 
