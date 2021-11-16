@@ -10,7 +10,7 @@ MetaMask can be installed as a browser extension, or as an application on your m
 
 The instructions to install MetaMask can be found here:
 
-[Download and Install MetaMask](./metamask-wallet-setup.md)
+[Download and Install MetaMask](./1-metamask-wallet-setup.md)
 
 Once your MetaMask wallet has been setup, instructions to purchase HOLY on a DEX can be found here:
 
