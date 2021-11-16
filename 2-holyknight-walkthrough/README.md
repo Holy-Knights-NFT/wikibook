@@ -53,8 +53,20 @@ The weapon will have the same 5 elements as the character.
 Character and weapon upgraded system are very similar.
 
 ## Armor
-abcd
+Each armor set will have a different element.
+
+armor will have the same 5 elements.
+
+armor whose strength is reduced resistance. strengthen defense.
+
+armor helps increase the character's defense
+
 ## Shield
+shields have the same 5 elements as armor.
+
+Shields help strengthen defense and increase the ability to dodge attacks from the opponent
+
+shields increase the character's defense
 
 ## Blacksmith
 
