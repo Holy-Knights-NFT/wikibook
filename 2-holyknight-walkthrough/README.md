@@ -6,7 +6,7 @@ A description of HolyKnight's Character and Equipment concepts.
 
 ## Knight (Characters)
 
-Characters are one of the main NFTs the player can possess in HolyKnight.
+Characters are one of the main NFTs the player can possess in HolyKnight. 
 
 Each account can hold a maximum of five characters at any given time.
 
@@ -53,7 +53,7 @@ The weapon will have the same 5 elements as the character.
 Character and weapon upgraded system are very similar.
 
 ## Armor
-
+ab
 ## Shield
 
 ## Blacksmith
