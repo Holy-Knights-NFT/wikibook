@@ -53,7 +53,7 @@ The weapon will have the same 5 elements as the character.
 Character and weapon upgraded system are very similar.
 
 ## Armor
-ab
+abcd
 ## Shield
 
 ## Blacksmith
