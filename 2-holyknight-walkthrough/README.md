@@ -1,4 +1,6 @@
-# A description of HolyKnight's character and equipment concepts.
+# Start the game
+
+A description of HolyKnight's Character and Equipment concepts.
 
 ![](../assets/overview.png)
 
