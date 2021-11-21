@@ -22,7 +22,7 @@ Water invoking Air. Air banishing Water
 
 Assasin attribule is Fire.
 
-Spirit invoking Fire. Fire banishing Spirit. 
+Spirit invoking Fire. Fire banishing Spirit.
 
 ## Witch
 

@@ -6,7 +6,7 @@ A description of HolyKnight's Character and Equipment concepts.
 
 ## Knight (Characters)
 
-Characters are one of the main NFTs the player can possess in HolyKnight. 
+Characters are one of the main NFTs the player can possess in HolyKnight.
 
 Each account can hold a maximum of five characters at any given time.
 
@@ -53,6 +53,7 @@ The weapon will have the same 5 elements as the character.
 Character and weapon upgraded system are very similar.
 
 ## Armor
+
 Each armor set will have a different element.
 
 Armor will have the same 5 elements.
@@ -102,6 +103,7 @@ Players upgrade equipment by inserting shards into current equipment.
 Equipment will be added elements to increase equipment power.
 
 ### Engrave
+
 Engrave the player's name according to the player's wishes
 
 Engrave the item name according to the player's choice
@@ -123,6 +125,7 @@ Players who own land according to different levels will enjoy different profits.
 ## Banking System
 
 ### Deposits and Withdrawals
+
 The player deposits Holy token in the bank receives Gold.
 
 Players withdraw Gold to sell at the Marketplace.
@@ -130,6 +133,7 @@ Players withdraw Gold to sell at the Marketplace.
 Calculated based on current rates.
 
 ### Real estate Marketplace
+
 The player buys land at the bank.
 
 Players sell land in the marketplace with other players.
