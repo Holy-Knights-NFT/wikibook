@@ -12,34 +12,16 @@ Players can increase their combat power by forging new weapons at the Blacksmith
 
 New Weapon upgrades will be calculated as follows:
 
-• Common, 48.16% chance. 
+• Common, 48.16% chance.
 
-• Magic, 28.8% chance. 
+• Magic, 28.8% chance.
 
-• Rare, 15.2% chance. 
+• Rare, 15.2% chance.
 
-• Epic, 6.4% chance. 
+• Epic, 6.4% chance.
 
-• Legendary, 1.08% chance. 
+• Legendary, 1.08% chance.
 
-• Mythic, 0.32% chance. 
+• Mythic, 0.32% chance.
 
-• Exotic, 0.04% chance. 
-
-## Reforge
-
-### Match five trinkets into one item
-
-The player forges five trinket at the blacksmith into a new piece of equipment.
-
-### Increase trinket on item
-
-Increases power from trinket to items.
-
-Weapons, jewelry received from the boss fight event.
-
-When attacking the boss, the player will receive an item.
-
-If there is no received item will receive a trinket.
-
-
+• Exotic, 0.04% chance.
