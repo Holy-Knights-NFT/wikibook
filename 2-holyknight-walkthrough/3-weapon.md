@@ -28,7 +28,18 @@ New Weapon upgrades will be calculated as follows:
 
 ## Reforge
 
-The player attacks the boss will receive the shard.
+### Match five trinkets into one item
 
-The player forges five shards at the blacksmith into a new piece of equipment.
+The player forges five trinket at the blacksmith into a new piece of equipment.
+
+### increase trinket on item
+
+Increases power from trinket to items.
+
+Weapons, jewelry received from the boss fight event.
+
+When attacking the boss, the player will receive an item.
+
+If there is no received item will receive a trinket.
+
 
