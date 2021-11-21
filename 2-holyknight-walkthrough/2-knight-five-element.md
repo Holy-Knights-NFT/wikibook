@@ -1,17 +1,46 @@
 # Who's Knight?
 
-game có 5 dòng nv. mỗi nv 1 thuộc tính. trang bị cùng thuộc tính.
+The game has five class: Knight, Paladin, Assasin, Witch, Wizard.
 
-giới thiệu 
+Each character has different attributes: Earth, Water, Fire, Air, , Spirit.
+
+Equipment also has five different attributes.
 
 ## Knight
 
+Kngiht's attribule is Earth.
+
+Spirit invoking Earth. Earth banishing Spirit.
+
 ## Paladin
+
+Pladin attribule is Water.
+
+Water invoking Air. Air banishing Water
 
 ## Assasin
 
+Assasin attribule is Fire.
+
+Spirit invoking Fire. Fire banishing Spirit. 
+
 ## Witch
+
+Witch attribule is Air.
+
+Air invoking Water. Water banishing Air.
 
 ## Wizard
 
+Wizard's attribule is Spirit.
+
+### Spirit Active
+
+Fire invoking Air. Air banishing Fire
+
+### Spirit Passive
+
+Earth invoking Water. Water banishing Earth.
+
 # Charracter Noble Rank
+
