@@ -32,7 +32,7 @@ New Weapon upgrades will be calculated as follows:
 
 The player forges five trinket at the blacksmith into a new piece of equipment.
 
-### increase trinket on item
+### Increase trinket on item
 
 Increases power from trinket to items.
 
