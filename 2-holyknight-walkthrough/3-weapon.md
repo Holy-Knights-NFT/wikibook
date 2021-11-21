@@ -4,11 +4,13 @@ Weapon levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary,
 
 Weapons have five elements that are compatible with the character.
 
-Players can buy and sell equipment at the blacksmith.
+Players can buy and sell equipment at the Marketplace.
 
 Players can increase their combat power by forging new weapons at the Blacksmith.
 
-Weapon upgrades will be calculated as follows:
+## New mint Weapon
+
+New Weapon upgrades will be calculated as follows:
 
 • Common, 48.16% chance. 
 

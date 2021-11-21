@@ -1,6 +1,8 @@
 # What are Armor?
 
-Players buy armor in the blacksmith.
+Armor levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
+
+Armor have five elements that are compatible with the character.
 
 Armor increases the character's defense.
 
@@ -8,9 +10,11 @@ Upgrade armor at the blacksmith.
 
 Armor have five elements that are compatible with the character.
 
-Players can buy and sell equipment at the blacksmith.
+Players can buy and sell equipment at the Marketplace.
 
-Armor upgrades will be calculated as follows:
+## New mint Armor
+
+New Armor upgrades will be calculated as follows:
 
 • Common, 48.16% chance. 
 
