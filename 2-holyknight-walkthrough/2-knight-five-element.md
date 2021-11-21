@@ -53,3 +53,7 @@ Knights can be upgraded in 7 tiers as follows:
 Private -> Sergeant -> Lieutenant -> Captain -> Major -> Colonel -> General
 
 # Character equipment: Weapon, Armor, Shield, Land.
+
+# Mint Character
+
+The first time the player mint the character. The player will be given a one-star equipment set.
