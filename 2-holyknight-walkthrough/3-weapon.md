@@ -4,6 +4,10 @@ In the weapon game there are seven levels.
 
 Weapon levels range from one star to seven stars.
 
+Weapons add strength to the character.
+
+Weapons have five elements that are compatible with the character.
+
 Players can increase their overall combat power by forging new weapons at the Blacksmith. The forging process using RNG and the chance to cast each weapon level is as follows:
 
 • One star, 48.16% chance.

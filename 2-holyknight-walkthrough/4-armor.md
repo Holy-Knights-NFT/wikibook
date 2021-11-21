@@ -6,6 +6,8 @@ Armor increases the character's defense.
 
 Upgrade armor at the blacksmith.
 
+Armor have five elements that are compatible with the character.
+
 ## Reforge
 
 The player attacks the boss will receive the shard.
