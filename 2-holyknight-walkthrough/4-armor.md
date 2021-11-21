@@ -32,6 +32,11 @@ New Armor upgrades will be calculated as follows:
 
 ## Reforge
 
+### Match five trinkets into one item
+
+### Increase trinket on item
+
+
 The player attacks the boss will receive the shard.
 
 The player forges five shards at the blacksmith into a new piece of equipment.

@@ -29,3 +29,9 @@ New Shield upgrades will be calculated as follows:
 • Mythic, 0.32% chance. 
 
 • Exotic, 0.04% chance. 
+
+## Reforge
+
+### Match five trinkets into one item
+
+### Increase trinket on item
