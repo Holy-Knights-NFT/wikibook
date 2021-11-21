@@ -12,7 +12,7 @@ Weapon upgrades will be calculated as follows:
 
 • Common, 48.16% chance. 
 
-• Magic, 28.8% chance. Magic
+• Magic, 28.8% chance. 
 
 • Rare, 15.2% chance. 
 
