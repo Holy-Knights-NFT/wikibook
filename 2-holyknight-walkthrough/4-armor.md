@@ -8,6 +8,8 @@ Upgrade armor at the blacksmith.
 
 Armor have five elements that are compatible with the character.
 
+Players can buy and sell equipment at the blacksmith.
+
 ## Reforge
 
 The player attacks the boss will receive the shard.
