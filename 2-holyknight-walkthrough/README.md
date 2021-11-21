@@ -96,6 +96,7 @@ Players get shards from boss hunting.
 Players with all five shards will combine into a new equipment.
 
 #### Upgrade equipment
+
 Players upgrade equipment by inserting shards into current equipment.
 
 Equipment will be added elements to increase equipment power.
@@ -121,23 +122,23 @@ Players who own land according to different levels will enjoy different profits.
 
 ## Banking System
 
-#### Deposits and Withdrawals
+### Deposits and Withdrawals
 The player deposits Holy token in the bank receives Gold.
 
 Players withdraw Gold to sell at the Marketplace.
 
 Calculated based on current rates.
 
-#### Real estate Marketplace
+### Real estate Marketplace
 The player buys land at the bank.
 
 Players sell land in the marketplace with other players.
 
-#### Staking
+### Staking
 
 Players staking Land Ownership token ID to receive profits.
 
-#### The Feudal system
+### The Feudal system
 
 The Feudal system: The King, Barons, Knight, Peasants.
 
