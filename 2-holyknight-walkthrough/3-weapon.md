@@ -1,28 +1,28 @@
 # What are Weapons?
 
-In the weapon game there are seven levels.
-
-Weapon levels range from one star to seven stars.
-
-Weapons add strength to the character.
+Weapon levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
 
 Weapons have five elements that are compatible with the character.
 
-Players can increase their overall combat power by forging new weapons at the Blacksmith. The forging process using RNG and the chance to cast each weapon level is as follows:
+Players can buy and sell equipment at the blacksmith.
 
-• One star, 48.16% chance.
+Players can increase their combat power by forging new weapons at the Blacksmith.
 
-• Two stars, 28.8% chance.
+Weapon upgrades will be calculated as follows:
 
-• Three stars, 15.2% chance.
+• Common, 48.16% chance. 
 
-• Four stars, 6.4% chance.
+• Magic, 28.8% chance. Magic
 
-• Five stars, 1.08% chance.
+• Rare, 15.2% chance. 
 
-• Six stars, 0.32% chance.
+• Epic, 6.4% chance. 
 
-• Seven stars, 0.04% chance.
+• Legendary, 1.08% chance. 
+
+• Mythic, 0.32% chance. 
+
+• Exotic, 0.04% chance. 
 
 ## Reforge
 
