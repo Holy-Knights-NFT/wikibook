@@ -55,11 +55,11 @@ Character and weapon upgraded system are very similar.
 ## Armor
 Each armor set will have a different element.
 
-armor will have the same 5 elements.
+Armor will have the same 5 elements.
 
-armor whose strength is reduced resistance. strengthen defense.
+Armor whose strength is reduced resistance. strengthen defense.
 
-armor helps increase the character's defense
+Armor helps increase the character's defense.
 
 ## Shield
 shields have the same 5 elements as armor.
@@ -73,19 +73,23 @@ Blacksmiths have 3 main characteristics: Upgrade, Reforge, Engrave
 
 ### Upgrade
 
-#### character upgrade
+#### Character upgrade
 
-Character upgrade makes the character stronger
+Character upgrade makes the character stronger.
 
-#### weapon upgrade
+#### Weapon upgrade
 
-Weapon upgrades make the weapon more powerful when attacking monsters
+Weapon upgrades make the weapon more powerful when attacking monsters.
 
-#### upgrade armor-shield
+#### Upgrade armor-shield
 
-armor shield upgrades increase defense and dodge from monster attacks
+Armor shield upgrades increase defense and dodge from monster attacks.
 
 ### Reforge
+Players will get shards from boss fights.
+
+Players will match fragments containing three elements together.
+
 
 ### Engrave
 Engrave the player's name according to the player's wishes
@@ -96,14 +100,14 @@ Engrave the name of the land the player owns
 
 ## Land
 
-players can buy land when reaching certain level
+Players can buy land when reaching certain level.
 
-Players can sell existing land to buy other land
+Players can sell existing land to buy other land.
 
-The land will be divided according to different levels of each region
+The land will be divided according to different levels of each region.
 
 The land will be divided according to different levels: kings, nobles, warriors and peasants.
 
-Players who own land according to different levels will enjoy different profits
+Players who own land according to different levels will enjoy different profits.
 ## Banking System
 
