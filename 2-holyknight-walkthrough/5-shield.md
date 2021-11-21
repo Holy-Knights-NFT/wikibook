@@ -16,22 +16,16 @@ Players can buy and sell equipment at the Marketplace.
 
 New Shield upgrades will be calculated as follows:
 
-• Common, 48.16% chance. 
+• Common, 48.16% chance.
 
-• Magic, 28.8% chance. 
+• Magic, 28.8% chance.
 
-• Rare, 15.2% chance. 
+• Rare, 15.2% chance.
 
-• Epic, 6.4% chance. 
+• Epic, 6.4% chance.
 
-• Legendary, 1.08% chance. 
+• Legendary, 1.08% chance.
 
-• Mythic, 0.32% chance. 
+• Mythic, 0.32% chance.
 
-• Exotic, 0.04% chance. 
-
-## Reforge
-
-### Match five trinkets into one item
-
-### Increase trinket on item
+• Exotic, 0.04% chance.
