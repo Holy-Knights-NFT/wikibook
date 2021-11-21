@@ -1,4 +1,4 @@
-# Who's Knight?
+# Who's Knight
 
 The game has five class: Knight, Paladin, Assasin, Witch, Wizard.
 
@@ -44,3 +44,8 @@ Earth invoking Water. Water banishing Earth.
 
 # Charracter Noble Rank
 
+Knights can be upgraded in 7 tiers as follows:
+
+Private -> Sergeant -> Lieutenant -> Captain -> Major -> Colonel -> General
+
+# Character equipment: Weapon, Armor, Shield, Land.
