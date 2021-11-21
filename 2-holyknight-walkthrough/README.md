@@ -62,11 +62,12 @@ Armor whose strength is reduced resistance. strengthen defense.
 Armor helps increase the character's defense.
 
 ## Shield
-shields have the same 5 elements as armor.
+
+Shields have the same 5 elements as armor.
 
 Shields help strengthen defense and increase the ability to dodge attacks from the opponent
 
-shields increase the character's defense
+Shields increase the character's defense
 
 ## Blacksmith
 Blacksmiths have 3 main characteristics: Upgrade, Reforge, Engrave
@@ -86,10 +87,15 @@ Weapon upgrades make the weapon more powerful when attacking monsters.
 Armor shield upgrades increase defense and dodge from monster attacks.
 
 ### Reforge
-Players will get shards from boss fights.
 
-Players will match fragments containing three elements together.
+#### New equipment
 
+Players with all five shards will combine into a new equipment.
+
+#### Upgrade equipment
+Players upgrade equipment by inserting shards into current equipment.
+
+Equipment will be added elements to increase equipment power.
 
 ### Engrave
 Engrave the player's name according to the player's wishes
