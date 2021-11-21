@@ -2,6 +2,8 @@ Knight Characters
 
 # Who's Knight
 
+Players start in Templar, where they can open their first character.
+
 The game has five class: Knight, Paladin, Assasin, Witch, Wizard.
 
 Each character has different attributes: Earth, Water, Fire, Air, , Spirit.
