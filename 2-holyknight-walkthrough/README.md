@@ -70,6 +70,7 @@ Shields help strengthen defense and increase the ability to dodge attacks from t
 Shields increase the character's defense
 
 ## Blacksmith
+
 Blacksmiths have 3 main characteristics: Upgrade, Reforge, Engrave
 
 ### Upgrade
@@ -89,6 +90,8 @@ Armor shield upgrades increase defense and dodge from monster attacks.
 ### Reforge
 
 #### New equipment
+
+Players get shards from boss hunting.
 
 Players with all five shards will combine into a new equipment.
 
