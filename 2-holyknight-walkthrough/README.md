@@ -121,6 +121,24 @@ Players who own land according to different levels will enjoy different profits.
 
 ## Banking System
 
-Players deposit money in profitable banks.
+#### Deposits and Withdrawals
+The player deposits Holy token in the bank receives Gold.
 
-The money players deposit in the bank will be calculated as % annually
+Players withdraw Gold to sell at the Marketplace.
+
+Calculated based on current rates.
+
+#### Real estate Marketplace
+The player buys land at the bank.
+
+Players sell land in the marketplace with other players.
+
+#### Staking
+
+Players staking Land Ownership token ID to receive profits.
+
+#### The Feudal system
+
+The Feudal system: The King, Barons, Knight, Peasants.
+
+Each character's title will be referenced with the character's land ownership.
