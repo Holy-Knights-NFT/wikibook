@@ -118,5 +118,9 @@ The land will be divided according to different levels of each region.
 The land will be divided according to different levels: kings, nobles, warriors and peasants.
 
 Players who own land according to different levels will enjoy different profits.
+
 ## Banking System
 
+Players deposit money in profitable banks.
+
+The money players deposit in the bank will be calculated as % annually
