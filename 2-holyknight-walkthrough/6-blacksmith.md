@@ -36,6 +36,8 @@ Armor shield upgrades increase defense and dodge from monster attacks.
 
 Engrave names on armor - shield.
 
+New Equipment upgrades will be calculated as follows:
+
 The player pairs two Common weapon-armor into one Magic weapon-armor.
 
 The player pairs two Magic weapon-armor into one Rare weapon-armor.
