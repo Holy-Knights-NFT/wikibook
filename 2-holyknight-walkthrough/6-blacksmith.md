@@ -40,22 +40,17 @@ The player combines two weapon level one into a weapon level two.
 
 ## Reforge
 
-#### New equipment
+### New equipment
 
-Players with all five trinket will combine into a new equipment.
+The player forges five trinket at the blacksmith into a new piece of equipment.
 
 Players get trinket from boss hunting.
 
-#### Upgrade equipment
+### Upgrade equipment
 
-Players upgrade equipment by inserting shards into current equipment.
+Players upgrade equipment by inserting trinket into current equipment.
 
 Equipment will be added elements to increase equipment power.
-## Reforge
-
-### Match five trinkets into one item
-
-The player forges five trinket at the blacksmith into a new piece of equipment.
 
 ### Increase trinket on item
 
