@@ -47,6 +47,7 @@ The player pairs two Epic weapon-armor into one Legendary weapon-armor.
 The player pairs two Legendary weapon-armor into one Mythic weapon-armor.
 
 The player pairs two Mythic weapon-armor into one Exotic weapon-armor.
+
 ## Reforge
 
 ### New equipment
