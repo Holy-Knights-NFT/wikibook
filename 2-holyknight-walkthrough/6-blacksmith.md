@@ -80,3 +80,4 @@ Engrave your name on land.
 
 Players own land according to character level.
 
+The Feudal system: The King, Barons, Knight, Peasants.

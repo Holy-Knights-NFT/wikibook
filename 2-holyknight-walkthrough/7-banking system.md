@@ -18,6 +18,8 @@ Players sell land in the marketplace with other players.
 
 Players staking Land Ownership token ID to receive profits.
 
+Calculated based on current rates.
+
 ## The Feudal system
 
 The Feudal system: The King, Barons, Knight, Peasants.
