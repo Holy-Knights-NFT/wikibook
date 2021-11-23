@@ -1,6 +1,6 @@
 # What are Blacksmith?
 
-Blacksmith is the place to upgrade characters, upgrade equipment.
+Blacksmith is the place to upgrade characters, upgrade equipment, upgrade land.
 
 ## Upgrade
 
