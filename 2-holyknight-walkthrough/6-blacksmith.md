@@ -10,6 +10,8 @@ Character upgrade makes the character stronger.
 
 Engrave the character's name.
 
+Knights can be upgraded in 7 tiers as follows:
+
 The player pairs two Private characters into one Sergeant character.
 
 The player pairs two Sergeant characters into one Lieutenant character.
