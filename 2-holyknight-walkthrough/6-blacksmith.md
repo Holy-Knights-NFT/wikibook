@@ -79,3 +79,4 @@ If there is no received item will receive a trinket.
 Engrave your name on land.
 
 Players own land according to character level.
+
