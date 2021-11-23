@@ -14,7 +14,7 @@ Players can buy and sell equipment at the Marketplace.
 
 ## New mint Shield
 
-New Shield upgrades will be calculated as follows:
+New Equipment upgrades will be calculated as follows:
 
 • Common, 48.16% chance.
 
