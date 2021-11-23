@@ -36,8 +36,17 @@ Armor shield upgrades increase defense and dodge from monster attacks.
 
 Engrave names on armor - shield.
 
-The player combines two weapon level one into a weapon level two.
+The player pairs two Common weapon-armor into one Magic weapon-armor.
 
+The player pairs two Magic weapon-armor into one Rare weapon-armor.
+
+The player pairs two Rare weapon-armor into one Epic weapon-armor.
+
+The player pairs two Epic weapon-armor into one Legendary weapon-armor.
+
+The player pairs two Legendary weapon-armor into one Mythic weapon-armor.
+
+The player pairs two Mythic weapon-armor into one Exotic weapon-armor.
 ## Reforge
 
 ### New equipment
