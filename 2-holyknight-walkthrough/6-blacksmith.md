@@ -73,3 +73,9 @@ Weapons, trinket received from the boss fight event.
 When attacking the boss, the player will receive an item.
 
 If there is no received item will receive a trinket.
+
+### Upgrade land
+
+Engrave your name on land.
+
+Players own land according to character level.
