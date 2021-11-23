@@ -42,9 +42,9 @@ The player combines two weapon level one into a weapon level two.
 
 #### New equipment
 
-Players get shards from boss hunting.
+Players with all five trinket will combine into a new equipment.
 
-Players with all five shards will combine into a new equipment.
+Players get trinket from boss hunting.
 
 #### Upgrade equipment
 
