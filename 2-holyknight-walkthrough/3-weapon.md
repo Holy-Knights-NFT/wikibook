@@ -10,7 +10,7 @@ Players can increase their combat power by forging new weapons at the Blacksmith
 
 ## New mint Weapon
 
-New Weapon upgrades will be calculated as follows:
+New Equipment upgrades will be calculated as follows:
 
 • Common, 48.16% chance.
 
