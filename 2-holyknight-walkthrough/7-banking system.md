@@ -20,10 +20,6 @@ Players staking Land Ownership token ID to receive profits.
 
 Calculated based on current rates.
 
-## The Feudal system
 
-The Feudal system: The King, Barons, Knight, Peasants.
-
-Each character's title will be referenced with the character's land ownership.
 
 
