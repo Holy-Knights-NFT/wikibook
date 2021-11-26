@@ -82,27 +82,19 @@ Each character owns only one plot of land, which is determined through the class
 
 ## 7. Banking System
 
-### A. Deposits and Withdrawals
-
-The player deposits Holy token to the bank and receives in-game Gold currency.
-
-Players withdraw Gold to sell at the Marketplace.
-
-Calculated based on current rates.
-
-### B. Withdraw and Deposit:
+### A. Withdraw and Deposit:
 
 Players can deposit with HOLY token to get back Gold which is the main currency in HolyKnight game. And vice versa, ssex players exchange Gold for HOLY tokens that can be transferred to their personal wallets or exchanged on exchanges. The exchange rate between HOLY token and Gold is calculated at that time by Chainlink Oracle contract.
 
-### C. Land valuation and sale:
+### B. Land valuation and sale:
 
 Characters can buy a plot of land that they like right here and use it for their own purposes or staking with the bank to receive an annual return.
 
-### Staking
+### C. Staking
 
 Players staking Land Ownership token ID to receive profits upto 13% APY.
 
-### The Feudal system
+### D. The Feudal system
 
 As mentioned above there are 4 tiers for land, equivalent to: The King, Barons, Knights, Peasants.
 
