@@ -10,23 +10,15 @@ The characters are divided into 5 types: Knight, Paladin, Assassin, Witch and Wi
 
 The price to initialize the character will be calculated at the moment the player starts creating the character. With the first character, the player will be given a set of equipment enough for the character to be able to fight. The next time the price will be higher and no equipment will be included.
 
-Players start in Templar, where they can open their first character.
+## A Class: Knight
 
-The game has five class: Knight, Paladin, Assasin, Witch, Wizard.
-
-Each character has different attributes: Earth, Water, Fire, Air, , Spirit.
-
-Equipment also has five different attributes.
-
-## Knight
-
-Kngiht's attribule is Earth.
+Knight's element is Earth.
 
 Spirit invoking Earth. Earth banishing Spirit.
 
 ## Paladin
 
-Pladin attribule is Water.
+Paladin attribule is Water.
 
 Water invoking Air. Air banishing Water
 

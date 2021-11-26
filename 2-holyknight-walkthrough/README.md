@@ -38,11 +38,11 @@ The weapon will have the same 5 elements as the character.
 
 Character and weapon upgraded system are very similar.
 
-## 3. Armor
+## 3. Armors
 
 Armor is also classified into 5 types to suit each type of character. Armor helps protect the character in battle by increasing HP and reducing the damage of attacks with elemental resistance.
 
-## 4. Shield
+## 4. Shields
 
 Shields have the same 5 elements as armor. Shields help strengthen defense and increase the ability to dodge attacks from the opponent. Shields increase the character's defense.
 
@@ -74,7 +74,7 @@ Engrave the item name according to the player.
 
 Engrave the name of the land the player owns.
 
-## 6. Land
+## 6. Lands
 
 LAND is a limited resource in the game, only 10,000 lots. In which: 4 lots for the King, 60 lots for Barons, 336 lots for Knights, the remaining 9600 lots for Peasants.
 
@@ -84,7 +84,7 @@ Each character owns only one plot of land, which is determined through the class
 
 ### A. Withdraw and Deposit:
 
-Players can deposit with HOLY token to get back Gold which is the main currency in HolyKnight game. And vice versa, ssex players exchange Gold for HOLY tokens that can be transferred to their personal wallets or exchanged on exchanges. The exchange rate between HOLY token and Gold is calculated at that time by Chainlink Oracle contract.
+Players can deposit with HOLY token to get back Gold which is the main currency in HolyKnight game. And vice versa, players exchange Gold for HOLY tokens that can be transferred to their personal wallets or trade on DEXs. The exchange rate between HOLY token and Gold is calculated at that time by Chainlink Oracle contract.
 
 ### B. Land valuation and sale:
 
