@@ -1,5 +1,3 @@
-Knight Characters
-
 # Who's Knight
 
 Players start in Templar, where they can open their first character.
