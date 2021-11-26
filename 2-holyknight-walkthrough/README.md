@@ -4,47 +4,33 @@ A description of HolyKnight's Character and Equipment concepts.
 
 ![](../assets/overview.png)
 
-## Knight (Characters)
+## 1. Knight (Characters)
 
-Characters are one of the main NFTs the player can possess in HolyKnight.
+Players need to own at least one character to be able to start playing the game.
 
-Each account can hold a maximum of five characters at any given time.
+There are 5 types of characters: Knight, Paladin, Assassin, Witch and Wizard.
 
-The price to mint characters is displayed on the button in the Plaza tab.
+### A. Character Elements
 
-Each character starts at level one, and comes with a chosen element upon minting.
-
-Players may purchase element change potions from the Marketplace to change the elements of their characters.
-
-### Character Elements
-
-Each character comes as one of five different elements \(Spirit, Fire, Earth, Air, Water\).
+Each character type will come with 1 element: Knight <-> Earth, Paladin <-> Water, Assassin <-> Fire, Witch <-> Air, Wizard <-> Spirit.
 
 Character elements are used to determine advantage calculations and multipliers in combat.
 
-More information on how character elements are used can be found in next artical:
+To change your character's elemental, visit the blacksmith at the King's Landing of the HolyKnight Medieverse.
 
-{% page-ref page="../../combat/fighting/" %}
+### B. Character Hitpoint
 
-### Character Mana
+A character's HP is an indicator that represents the character's presence in battle. When this stat down to zero, the character is removed from the battle. The side that gets rid of all the characters in the battle formation will be forfeited.
 
-Each character has their own individual mana pool, with a maximum count of 2400.
+### C. Character Hierarchy
 
-Mana regenerates at a rate of two point every minute.
-
-Mana is spent when the player engages in combat, at a rate of 100/200/400/800/1600 mana cost per fight depending on the player's selected mana cost per fight.
-
-This means that in 24 hours, each character can get 2880 mana which equates to 28.8 fights (but it capped maximum by 24).
-
-### Character Hierarchy
-
-Knights can be upgraded in 7 tiers as follows:
+Characters can be upgraded in 7 tiers as follows:
 
 Private -> Sergeant -> Lieutenant -> Captain -> Major -> Colonel -> General
 
-More more infomation on how to upgrade can be found here: [Upgrading Character and Items](../)
+To upgrade your character's hierarchy, visit the blacksmith at the King's Landing of the HolyKnight Medieverse.
 
-## Weapons
+## 2. Weapons
 
 Each weapon will have its own set of character elements, and the character with that element will be required to utilize a weapon with that element.
 
@@ -52,98 +38,72 @@ The weapon will have the same 5 elements as the character.
 
 Character and weapon upgraded system are very similar.
 
-## Armor
+## 3. Armor
 
-Each armor set will have a different element.
+Armor is also classified into 5 types to suit each type of character. Armor helps protect the character in battle by increasing HP and reducing the damage of attacks with elemental resistance.
 
-Armor will have the same 5 elements.
+## 4. Shield
 
-Armor whose strength is reduced resistance. strengthen defense.
+Shields have the same 5 elements as armor. Shields help strengthen defense and increase the ability to dodge attacks from the opponent. Shields increase the character's defense.
 
-Armor helps increase the character's defense.
+Legendary Shield is a special shield used to protect the character in battle by significantly increasing the combat power of the entire character. This is a guarantee of the player's victory in all PvE battles. Of course, the price of this Legendary Shield is very expensive and the quantity is limited.
 
-## Shield
+## 5. Blacksmith
 
-Shields have the same 5 elements as armor.
+Blacksmiths have 3 features: Upgrade, Reforge, Engrave
 
-Shields help strengthen defense and increase the ability to dodge attacks from the opponent
+### A. Upgrade
 
-Shields increase the character's defense
+Character upgrade: Character upgrade to higher hierarchy.
 
-## Blacksmith
+Weapon upgrade: Weapon upgrades make the weapon more powerful when attacking monsters.
 
-Blacksmiths have 3 main characteristics: Upgrade, Reforge, Engrave
+Upgrade armor-shield: Armor or shield upgrades to increase defense or dodge from the opponent.
 
-### Upgrade
+### B. Reforge
 
-#### Character upgrade
+Forge a new equipment: Players get trinkets from boss hunting, combine five trinkets into a new equipment.
 
-Character upgrade makes the character stronger.
+Increase equipment stats: Players upgrade equipment stats by inserting trinket into current equipment.
 
-#### Weapon upgrade
+### C. Engrave
 
-Weapon upgrades make the weapon more powerful when attacking monsters.
+Engrave the character's name according to the player.
 
-#### Upgrade armor-shield
+Engrave the item name according to the player.
 
-Armor shield upgrades increase defense and dodge from monster attacks.
+Engrave the name of the land the player owns.
 
-### Reforge
+## 6. Land
 
-#### New equipment
+LAND is a limited resource in the game, only 10,000 lots. In which: 4 lots for the King, 60 lots for Barons, 336 lots for Knights, the remaining 9600 lots for Peasants.
 
-Players get shards from boss hunting.
+Each character owns only one plot of land, which is determined through the classification of the banking system.
 
-Players with all five shards will combine into a new equipment.
+## 7. Banking System
 
-#### Upgrade equipment
+### A. Deposits and Withdrawals
 
-Players upgrade equipment by inserting shards into current equipment.
-
-Equipment will be added elements to increase equipment power.
-
-### Engrave
-
-Engrave the player's name according to the player's wishes
-
-Engrave the item name according to the player's choice
-
-Engrave the name of the land the player owns
-
-## Land
-
-Players can buy land when reaching certain level.
-
-Players can sell existing land to buy other land.
-
-The land will be divided according to different levels of each region.
-
-The land will be divided according to different levels: kings, nobles, warriors and peasants.
-
-Players who own land according to different levels will enjoy different profits.
-
-## Banking System
-
-### Deposits and Withdrawals
-
-The player deposits Holy token in the bank receives Gold.
+The player deposits Holy token to the bank and receives in-game Gold currency.
 
 Players withdraw Gold to sell at the Marketplace.
 
 Calculated based on current rates.
 
-### Real estate Marketplace
+### B. Withdraw and Deposit:
 
-The player buys land at the bank.
+Players can deposit with HOLY token to get back Gold which is the main currency in HolyKnight game. And vice versa, ssex players exchange Gold for HOLY tokens that can be transferred to their personal wallets or exchanged on exchanges. The exchange rate between HOLY token and Gold is calculated at that time by Chainlink Oracle contract.
 
-Players sell land in the marketplace with other players.
+### C. Land valuation and sale:
+
+Characters can buy a plot of land that they like right here and use it for their own purposes or staking with the bank to receive an annual return.
 
 ### Staking
 
-Players staking Land Ownership token ID to receive profits.
+Players staking Land Ownership token ID to receive profits upto 13% APY.
 
 ### The Feudal system
 
-The Feudal system: The King, Barons, Knight, Peasants.
+As mentioned above there are 4 tiers for land, equivalent to: The King, Barons, Knights, Peasants.
 
-Each character's title will be referenced with the character's land ownership.
+A character who owns a plot of land of the King has the same rights as the King, similarly for other classes.

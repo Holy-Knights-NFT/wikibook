@@ -1,4 +1,14 @@
-# Who's Knight
+# Characters in HolyKnight
+
+The character is one of the main NFTs that players can own in HolyKnight. To start the game, the player needs to have at least 1 character. Avatar is a special type of character that represents the player himself in the game HolyKnight.
+
+There are a total of 12 battle formations in the game. Each formation allows players to set from 1 to 5 characters. Only by changing the formation, the player can change the battle tactics in the game to win each match.
+
+At the moment, each account can contain up to five characters at any given time. However, this limit can be changed using Avatar's unlock feature.
+
+The characters are divided into 5 types: Knight, Paladin, Assassin, Witch and Wizard. Each character has a unique combat skill and element for each character type.
+
+The price to initialize the character will be calculated at the moment the player starts creating the character. With the first character, the player will be given a set of equipment enough for the character to be able to fight. The next time the price will be higher and no equipment will be included.
 
 Players start in Templar, where they can open their first character.
 
