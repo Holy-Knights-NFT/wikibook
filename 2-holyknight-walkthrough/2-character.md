@@ -8,51 +8,68 @@ At the moment, each account can contain up to five characters at any given time.
 
 The characters are divided into 5 types: Knight, Paladin, Assassin, Witch and Wizard. Each character has a unique combat skill and element for each character type.
 
-The price to initialize the character will be calculated at the moment the player starts creating the character. With the first character, the player will be given a set of equipment enough for the character to be able to fight. The next time the price will be higher and no equipment will be included.
+The price to initialize the character will be calculated at the moment the player starts minting the character. With the first character, the player will be given a set of equipment enough for the character to be able to fight. The next time the price will be higher and no equipment will be included.
 
 ## A Class: Knight
 
 Knight's element is Earth.
 
-Spirit invoking Earth. Earth banishing Spirit.
+Knight is a character with good melee abilities, with solid armor and powerful weapons. Knight can only attack opponents that are present in front of him, very suitable for placing in the first row of battle formations.
 
-## Paladin
+Spirit invoking Earth. Earth banishing Spirit. His favorite opponent is the Wizard.
 
-Paladin attribule is Water.
+## B Class: Paladin
 
-Water invoking Air. Air banishing Water
+Paladin's element is Water.
 
-## Assasin
+Paladin is a character capable of fighting with many different weapons such as swords, spears and bows... defense is only average, priority position is next to Knight. Paladin's damage is quite large because he has the ability to hit all enemies standing in a horizontal line.
 
-Assasin attribule is Fire.
+Air invoking Water. Water banishing Air. His favorite opponent is the Witch.
 
-Spirit invoking Fire. Fire banishing Spirit.
+## C Class: Assasin
 
-## Witch
+Assasin's element is Fire.
 
-Witch attribule is Air.
+Assassin is a character who has a knack for finishing opponents with just one attack, but his defense is quite weak. The speed of the attack is an advantage, this makes the opponent unable to defend, so it is easily destroyed. His target is the character in the last row.
+
+Spirit invoking Fire. Fire banishing Spirit. His favorite opponent is the Wizard.
+
+## D Class: Witch
+
+Witch's element is Air.
+
+Witch will use black magic to attack all opponents standing in a line. However, Paladin is an equal opponent with Witch.
 
 Air invoking Water. Water banishing Air.
 
-## Wizard
+## E Class: Wizard
 
-Wizard's attribule is Spirit.
+Wizard's element is Spirit.
+
+Wizard has a talent for mastery of magic and the ability to change the game with just one spell, because of his ability to hit all enemies on the map. Defense and endurance in combat need to be further improved.
 
 ### Spirit Active
 
-Fire invoking Air. Air banishing Fire
+Fire invoking Air. Air banishing Fire.
 
 ### Spirit Passive
 
 Earth invoking Water. Water banishing Earth.
 
-# Charracter Noble Rank
+# Character Noble Rank
 
-Knights can be upgraded in 7 tiers as follows:
+Character's hierarchy can be upgraded in 7 tiers as follows:
 
 Private -> Sergeant -> Lieutenant -> Captain -> Major -> Colonel -> General
 
-# Character equipment: Weapon, Armor, Shield, Land.
+- Private and Sergeant will be classified as Peasants rank.
+- Lieutenant and Captain will be classified as Knights rank.
+- Major and Colonel will be classified as Barons rank.
+- General will be classified as The King rank.
+
+# Character Equipment
+
+Characters can be equipped with items such as Weapons, Armor, Shields and own Land.
 
 # Mint Character
 

@@ -19,7 +19,3 @@ Players sell land in the marketplace with other players.
 Players staking Land Ownership token ID to receive profits.
 
 Calculated based on current rates.
-
-
-
-
