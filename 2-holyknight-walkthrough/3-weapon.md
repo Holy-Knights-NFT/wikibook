@@ -1,29 +1,45 @@
 # What are Weapons?
 
-Players buy weapons at the Marketplace.
+## Each weapon will have its own set of character elements and the character with that element will be required to use a weapon with that element.
 
-Weapon will help the character increase combat power.
+Each weapon has its own set of character elements. Each weapon will be unique to each character.
 
-Players come to Blacksmith to upgrade their weapons in two ways:
+Each character will use for themselves a weapon of the same element.
 
-1. The player pairs an existing weapon with a trinket to increase damage.
-
-2. Players combine new weapons to increase weapon level to high.
 Weapon level has seven levels: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
 
-New weapons are sold at Marketplace, players will easily buy new weapons to assemble.
+## Weapons will have the same 5 elements as the character.
 
-Weapons have five elements that are compatible with the character.
+The Knight character uses the weapon intended for the Knight character.
 
-Players can buy and sell equipment at the Marketplace.
+The Paladin character uses the weapon intended for the Paladin character.
 
-3. Players need to register in advance to enter the weekend Boss event. If the player does not register before the weekend boss fight event, they will not be allowed to enter.
+The Assassin character uses the weapon intended for the Assassin character.
 
-The weekend boss fight event will drop one of three items that are compatible with the character's level.
+The Witch character uses the weapon intended for the Witch character.
 
-Boss fighting event will help lucky players get a random item (weapon, armor, shield), gold, experience.
+The Wizard character uses the weapon intended for the Wizard character.
 
-When fighting Boss, the player receives an equipment that will correspond to the character's level.
+Example: The player cannot use the weapon of the Knight character that is used by the Paladin character. Because that weapon is not compatible with the Knight character.
 
-Unlucky players get a trinket, gold, and experience.
+## The character and weapon upgrade system is very similar.
+
+### Character upgrade
+
+The player upgrades the character with the same element into a new character.
+
+Players cannot upgrade two characters with different elements into a new character.
+
+Example: Upgrade two Private level Knights to one Sergeant level Knight.
+### Upgrade new weapons
+
+Players upgrade two weapons with the same element into a new weapon of the same element.
+
+The player cannot upgrade two weapons with different elements into a new weapon.
+
+Example: Upgrade two Common weapons with the same element into a new Magic weapon.
+
+Player reforge 5 trinket into a new weapon.
+
+The player reforge weapon does not use the current weapon to increase the element.
 
