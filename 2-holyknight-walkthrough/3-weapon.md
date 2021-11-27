@@ -1,27 +1,29 @@
 # What are Weapons?
 
-Weapon levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
+Players buy weapons at the Marketplace.
+
+Weapon will help the character increase combat power.
+
+Players come to Blacksmith to upgrade their weapons in two ways:
+
+1. The player pairs an existing weapon with a trinket to increase damage.
+
+2. Players combine new weapons to increase weapon level to high.
+Weapon level has seven levels: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
+
+New weapons are sold at Marketplace, players will easily buy new weapons to assemble.
 
 Weapons have five elements that are compatible with the character.
 
 Players can buy and sell equipment at the Marketplace.
 
-Players can increase their combat power by forging new weapons at the Blacksmith.
+3. Players need to register in advance to enter the weekend Boss event. If the player does not register before the weekend boss fight event, they will not be allowed to enter.
 
-## New mint Weapon
+The weekend boss fight event will drop one of three items that are compatible with the character's level.
 
-New Equipment upgrades will be calculated as follows:
+Boss fighting event will help lucky players get a random item (weapon, armor, shield), gold, experience.
 
-• Common, 48.16% chance.
+When fighting Boss, the player receives an equipment that will correspond to the character's level.
 
-• Magic, 28.8% chance.
+Unlucky players get a trinket, gold, and experience.
 
-• Rare, 15.2% chance.
-
-• Epic, 6.4% chance.
-
-• Legendary, 1.08% chance.
-
-• Mythic, 0.32% chance.
-
-• Exotic, 0.04% chance.
