@@ -1,0 +1,16 @@
+# Table of contents
+
+* [HolyKnightWin - NFT Ecosystem on Polygon Network](README.md)
+* [Getting Started](1-getting-started/README.md)
+  * [Started with Blockchain Games](1-getting-started/1-metamask-wallet-setup.md)
+  * [Multiple Accounts](1-getting-started/2-multiple-accounts.md)
+  * [Gas Fees](1-getting-started/3-gas-fees.md)
+  * [About HolyKnight's Avatar](1-getting-started/4-avatar-generation.md)
+* [Start the game](2-holyknight-walkthrough/README.md)
+  * [HolyKnight Tokens](2-holyknight-walkthrough/1-holy-token-nft.md)
+  * [Character in HolyKnight](2-holyknight-walkthrough/2-character.md)
+  * [What are Weapons?](2-holyknight-walkthrough/3-weapon.md)
+  * [What are Armor?](2-holyknight-walkthrough/4-armor.md)
+  * [What are Shield?](2-holyknight-walkthrough/5-shield.md)
+  * [What are Blacksmith?](2-holyknight-walkthrough/6-blacksmith.md)
+  * [What are Banking System?](<2-holyknight-walkthrough/7-banking system.md>)
