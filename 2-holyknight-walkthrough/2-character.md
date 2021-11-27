@@ -1,4 +1,4 @@
-# Characters in HolyKnight
+# Character in HolyKnight
 
 The character is one of the main NFTs that players can own in HolyKnight. To start the game, the player needs to have at least 1 character. Avatar is a special type of character that represents the player himself in the game HolyKnight.
 
@@ -26,9 +26,9 @@ Paladin is a character capable of fighting with many different weapons such as s
 
 Air invoking Water. Water banishing Air. His favorite opponent is the Witch.
 
-## C Class: Assasin
+## C Class: Assassin
 
-Assasin's element is Fire.
+Assassin's element is Fire.
 
 Assassin is a character who has a knack for finishing opponents with just one attack, but his defense is quite weak. The speed of the attack is an advantage, this makes the opponent unable to defend, so it is easily destroyed. His target is the character in the last row.
 
