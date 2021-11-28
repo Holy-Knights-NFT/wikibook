@@ -1,8 +1,8 @@
 # What are Blacksmith?
 
-Blacksmith is the place to upgrade characters, upgrade equipment, upgrade land.
+Blacksmiths have 3 features: Upgrade, Reforge, Engrave
 
-## Upgrade
+### A. Upgrade
 
 ### Character upgrade
 
