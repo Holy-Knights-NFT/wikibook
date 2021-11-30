@@ -84,6 +84,10 @@ The Feudal system: The King, Barons, Knight, Peasants.
 
 Engrave the character's name.
 
-Engrave the weapon, armor, shield name.
+Engrave the weapon name.
+
+Engrave the armor name.
+
+Engrave the shield name.
 
 Engrave the land's name.
