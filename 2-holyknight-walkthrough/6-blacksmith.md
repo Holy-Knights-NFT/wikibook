@@ -48,7 +48,7 @@ The player pairs two Legendary weapon-armor into one Mythic weapon-armor.
 
 The player pairs two Mythic weapon-armor into one Exotic weapon-armor.
 
-## Reforge
+## B. Reforge
 
 ### New equipment
 
@@ -80,7 +80,7 @@ Players own land according to character level.
 
 The Feudal system: The King, Barons, Knight, Peasants.
 
-## Engrave Character
+## C. Engrave 
 
 Engrave the character's name.
 
