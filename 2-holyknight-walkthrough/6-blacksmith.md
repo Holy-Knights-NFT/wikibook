@@ -2,13 +2,11 @@
 
 Blacksmiths have 3 features: Upgrade, Reforge, Engrave
 
-### A. Upgrade
+## A. Upgrade
 
 ### Character upgrade
 
 Character upgrade makes the character stronger.
-
-Engrave the character's name.
 
 Knights can be upgraded in 7 tiers as follows:
 
@@ -81,3 +79,11 @@ Engrave your name on land.
 Players own land according to character level.
 
 The Feudal system: The King, Barons, Knight, Peasants.
+
+## Engrave Character
+
+Engrave the character's name.
+
+Engrave the weapon, armor, shield name.
+
+Engrave the land's name.
