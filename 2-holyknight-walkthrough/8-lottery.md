@@ -1,6 +1,6 @@
 # Holy Knight Lottery
 
-Games. Prizes. FAST. Fun.
+Games. Prizes. Fast. Fun.
 
 ## How To Play HolyJackpot:
 
@@ -12,3 +12,15 @@ There are 4 prize tiers on offer in Holyjackpot, and anyone who matches all six 
 
 Buying Holyjackpot tickets online is the easiest and safest way to play, as your tickets will be stored in your Metamask Wallet and automatically checked on your behalf. If you win a prize, you will be notified straight away and the winnings will be paid into your address for you to withdraw. Getting started with playing online is simple:
 
+1. Visit our DApp at https://holyknight.win/app/
+2. Click on Lottery Icon on the right.
+3. Connect your Metamask Wallet.
+4. Add funds to your address.
+5. Choose your set of numbers as you like.
+6. Click on Buy Ticket and confirm on your Metamask Wallet.
+
+## Play Holyjackpot via a third-party Marketplace:
+
+If you prefer to buy ticket on third-party Marketplace as OpenSea, you can play Holyjackpot by buying tickets from an authorised Marketplace and valid Smart Contract address. Play cards will be available for you to mark out which numbers you want to choose. You will need to keep your ticket safe, as it will act as proof of your winnings if you win a prize.
+
+# Eurojackpot Rules
