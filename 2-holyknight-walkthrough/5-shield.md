@@ -1,31 +1,23 @@
 # What are Shield?
 
-Shield levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
+# What are Shield?
 
-Shield have five elements that are compatible with the character.
+## Shields have the same 5 elements as armor.
 
-Players buy shields at the blacksmith.
+Shield level has seven levels: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
 
-Shield upgrade to increase defense.
+## Shields will have the same 5 elements as the character.
 
-Shield have five elements that are compatible with the character.
+The Knight character uses the shields intended for the Knight character.
 
-Players can buy and sell equipment at the Marketplace.
+The Paladin character uses the shields intended for the Paladin character.
 
-## New mint Shield
+The Assassin character uses the shields intended for the Assassin character.
 
-New Equipment upgrades will be calculated as follows:
+The Witch character uses the shields intended for the Witch character.
 
-• Common, 48.16% chance.
+The Wizard character uses the shields intended for the Wizard character.
 
-• Magic, 28.8% chance.
+Example: The player cannot use the shields of the Knight character that is used by the Paladin character. Because that shields is not compatible with the Knight character.
 
-• Rare, 15.2% chance.
-
-• Epic, 6.4% chance.
-
-• Legendary, 1.08% chance.
-
-• Mythic, 0.32% chance.
-
-• Exotic, 0.04% chance.
+Sields helps protect the character in battle by increasing HP and reducing the damage of attacks with elemental resistance.

@@ -1,14 +1,12 @@
 # What are Blacksmith?
 
-Blacksmith is the place to upgrade characters, upgrade equipment, upgrade land.
+Blacksmiths have 3 features: Upgrade, Reforge, Engrave
 
-## Upgrade
+## A. Upgrade
 
 ### Character upgrade
 
 Character upgrade makes the character stronger.
-
-Engrave the character's name.
 
 Knights can be upgraded in 7 tiers as follows:
 
@@ -50,7 +48,7 @@ The player pairs two Legendary weapon-armor into one Mythic weapon-armor.
 
 The player pairs two Mythic weapon-armor into one Exotic weapon-armor.
 
-## Reforge
+## B. Reforge
 
 ### New equipment
 
@@ -81,3 +79,15 @@ Engrave your name on land.
 Players own land according to character level.
 
 The Feudal system: The King, Barons, Knight, Peasants.
+
+## C. Engrave
+
+Engrave the character's name.
+
+Engrave the weapon name.
+
+Engrave the armor name.
+
+Engrave the shield name.
+
+Engrave the land's name.

@@ -1,31 +1,17 @@
 # What are Armor?
 
-Armor levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
+## Armor will have the same 5 elements as the character.
 
-Armor have five elements that are compatible with the character.
+The Knight character uses the armor intended for the Knight character.
 
-Armor increases the character's defense.
+The Paladin character uses the armor intended for the Paladin character.
 
-Upgrade armor at the blacksmith.
+The Assassin character uses the armor intended for the Assassin character.
 
-Armor have five elements that are compatible with the character.
+The Witch character uses the armor intended for the Witch character.
 
-Players can buy and sell equipment at the Marketplace.
+The Wizard character uses the armor intended for the Wizard character.
 
-## New mint Armor
+Example: The player cannot use the armor of the Knight character that is used by the Paladin character. Because that armor is not compatible with the Knight character.
 
-New Equipment upgrades will be calculated as follows:
-
-• Common, 48.16% chance.
-
-• Magic, 28.8% chance.
-
-• Rare, 15.2% chance.
-
-• Epic, 6.4% chance.
-
-• Legendary, 1.08% chance.
-
-• Mythic, 0.32% chance.
-
-• Exotic, 0.04% chance.
+Armor helps protect the character in battle by increasing HP and reducing the damage of attacks with elemental resistance.

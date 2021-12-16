@@ -1,27 +1,45 @@
 # What are Weapons?
 
-Weapon levels range from Common to Exotic: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
+## Each weapon will have its own set of character elements and the character with that element will be required to use a weapon with that element.
 
-Weapons have five elements that are compatible with the character.
+Each weapon has its own set of character elements. Each weapon will be unique to each character.
 
-Players can buy and sell equipment at the Marketplace.
+Each character will use for themselves a weapon of the same element.
 
-Players can increase their combat power by forging new weapons at the Blacksmith.
+Weapon level has seven levels: Common, Magic, Rare, Epic, Legendary, Mythic, Exotic.
 
-## New mint Weapon
+## Weapons will have the same 5 elements as the character.
 
-New Equipment upgrades will be calculated as follows:
+The Knight character uses the weapon intended for the Knight character.
 
-• Common, 48.16% chance.
+The Paladin character uses the weapon intended for the Paladin character.
 
-• Magic, 28.8% chance.
+The Assassin character uses the weapon intended for the Assassin character.
 
-• Rare, 15.2% chance.
+The Witch character uses the weapon intended for the Witch character.
 
-• Epic, 6.4% chance.
+The Wizard character uses the weapon intended for the Wizard character.
 
-• Legendary, 1.08% chance.
+Example: The player cannot use the weapon of the Knight character that is used by the Paladin character. Because that weapon is not compatible with the Knight character.
 
-• Mythic, 0.32% chance.
+## The character and weapon upgrade system is very similar.
 
-• Exotic, 0.04% chance.
+### Character upgrade
+
+The player upgrades the character with the same element into a new character.
+
+Players cannot upgrade two characters with different elements into a new character.
+
+Example: Upgrade two Private level Knights to one Sergeant level Knight.
+
+### Upgrade new weapons
+
+Players upgrade two weapons with the same element into a new weapon of the same element.
+
+The player cannot upgrade two weapons with different elements into a new weapon.
+
+Example: Upgrade two Common weapons with the same element into a new Magic weapon.
+
+Player reforge 5 trinket into a new weapon.
+
+The player reforge weapon does not use the current weapon to increase the element.
