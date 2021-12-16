@@ -17,4 +17,3 @@ Players staking Land Ownership token ID to receive profits upto 13% APY.
 As mentioned above there are 4 tiers for land, equivalent to: The King, Barons, Knights, Peasants.
 
 A character who owns a plot of land of the King has the same rights as the King, similarly for other classes.
-

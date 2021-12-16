@@ -31,6 +31,7 @@ The player upgrades the character with the same element into a new character.
 Players cannot upgrade two characters with different elements into a new character.
 
 Example: Upgrade two Private level Knights to one Sergeant level Knight.
+
 ### Upgrade new weapons
 
 Players upgrade two weapons with the same element into a new weapon of the same element.
@@ -42,4 +43,3 @@ Example: Upgrade two Common weapons with the same element into a new Magic weapo
 Player reforge 5 trinket into a new weapon.
 
 The player reforge weapon does not use the current weapon to increase the element.
-
