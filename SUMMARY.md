@@ -13,4 +13,4 @@
   * [What are Armor?](2-holyknight-walkthrough/4-armor.md)
   * [What are Shield?](2-holyknight-walkthrough/5-shield.md)
   * [What are Blacksmith?](2-holyknight-walkthrough/6-blacksmith.md)
-  * [What are Banking System?](<2-holyknight-walkthrough/7-banking system.md>)
+  * [What are Banking System?](2-holyknight-walkthrough/what-are-banking-system.md)
